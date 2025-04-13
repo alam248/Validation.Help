@@ -15,9 +15,7 @@ A simple, expressive, and extensible rule engine built in C# for evaluating comp
 🧪 Easy to unit test and plug into services or pipelines
 
 📦 Example Use Case
-csharp
-Copy
-Edit
+<pre> ```
 var person = new Person
 {
     Name = "John",
@@ -42,10 +40,8 @@ else
 {
     Console.WriteLine("✅ Validation passed!");
 }
+``` </pre>
 📁 Project Structure
-bash
-Copy
-Edit
 RuleEngine.NET/
 │
 ├── RuleEngine.cs       # Core rule engine
