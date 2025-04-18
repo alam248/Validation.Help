@@ -44,7 +44,11 @@ else
 📁 Project Structure
 RuleEngine.NET/
 │
+
 ├── RuleEngine.cs       # Core rule engine
+
 ├── RuleResult.cs       # Result model with error tracking
+
 ├── Person.cs           # Sample data model
+
 └── Program.cs          # Demo entry point
